@@ -3,3 +3,22 @@
 
 
 - https://www.w3schools.com/html/html_forms.asp
+
+
+- blog
+    => twitter
+    => facebook
+    => instagram
+
+    instagram.com/asdadf/assdgasfgasf
+    twitter.com/erqrwtqwrt/wqrtqrtrt
+    facebook/com/asdfasdfadfadf
+
+    <a href="https://instagram.com/asdadf/assdgasfgasf" />
+    <a href="https://twitter.com/asdadf/assdgasfgasf" />
+    <a href="https://facebook.com/asdadf/assdgasfgasf" />
+
+
+- a beautiful form
+https://www.strava.com/login
+https://my.bmi.ir/portalserver/signin

@@ -1,0 +1,25 @@
+input[href="text"] {
+  background-color: red;
+  color: white;
+  border: 2px solid green;
+  padding: 8px;
+}
+
+::placeholder {
+  color: yellow;
+}
+
+label {
+  color: green;
+}
+
+select {
+  padding: 1rem;
+  background-color: black;
+  color: white;
+}
+
+input:focus {
+  /* border: none; */
+  outline: 1px solid green;
+}
